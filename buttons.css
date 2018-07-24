@@ -1,0 +1,32 @@
+		@font-face {
+			font-family: Avenir;
+			src: url("avenir_ff/AvenirLTStd-Book.otf") format("opentype");
+		}
+		.custom-btn {
+			margin-top: 20px;
+			margin-bottom: 20px;
+			padding: 8px;
+			font-size: 15px;
+			border: 1px solid #53cde0;
+			text-align: center;
+			display: block;
+			margin: auto;
+			width: 168px;
+			height:37px;
+			border-radius: 25px;
+			color: white;
+			text-decoration: none;  
+			background-color: #53cde0;
+			box-sizing:border-box;
+			font-family: 'Avenir', sans-serif;
+
+		}
+		.play-icon{
+			font-size: 20px;
+			padding-bottom: 4px;
+			padding-right: 8px;
+		}
+		.buttons{
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
